@@ -1,0 +1,1 @@
+Project for reproducing a Visual Studio issue.
